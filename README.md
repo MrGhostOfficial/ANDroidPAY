@@ -22,8 +22,8 @@
 <a href="https://t.me/NetCyberCoder">
   <img src="https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram" alt="Chat-Telegram">
 </a>
-<a href="https://m.youtube.com/@HackerFake424/" target="_blank">
-  <img src="https://img.shields.io/badge/YOUTUBE-HackerFake424-red?style=flat-square&logo=youtube" alt="YouTube">
+<a href="https://m.youtube.com/@iShortcutGamer/" target="_blank">
+  <img src="https://img.shields.io/badge/YOUTUBE-iShortcutGamer-red?style=flat-square&logo=youtube" alt="YouTube">
 </a>
 <a href="https://www.tiktok.com/@somraat204" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-Somraat%20Hossain-green?style=for-the-badge&logo=tiktok" alt="TikTok">
@@ -54,8 +54,6 @@ chmod +x ANDroidPAY
 # [ Screenshot ]
 
 <img   src="https://github.com/MrGhostOfficial/MrGhostOfficial/blob/master/ANDroidPAY.jpg" /></p>
-
-<img   src="https://github.com/MrGhostOfficial/MrGhostOfficial/blob/master/ANDroidPAY2.jpg" /></p>
 
 [[INFO](https://t.me/NetCyberCoder)] if you are facing any issues then Contact me telegram. And don't forget to Follow GitHub, Hope you Like it Enjoy.👾
 

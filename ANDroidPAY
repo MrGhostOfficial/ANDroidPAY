@@ -136,7 +136,7 @@ clear;reset
 source <(echo 'anAyYSAtLWNvbG9ycyAkUFJFRklYL3NoYXJlL2lnaG9zdC9Bbm9ueW1vdXMucG5n' | base64 -d)
 echo -e "${black} —————————————————— ${red}[${green}INFORMATION${red}] ${black}———————————————————>
 ${red} [${green}✓${red}] ${white}Creator ${red}: ${white}Niassoh Taarmos${redlite}[${yellowlite}CyberCoder${redlite}]
-${red} [${green}✓${red}] ${white}YouTube ${red}: ${purple}HackerFake424
+${red} [${green}✓${red}] ${white}YouTube ${red}: ${purple}iShortcutGamer
 ${red} [${green}✓${red}] ${white}Support ${red}: ${cyan}Personal CyberCoder
 ${red} [${green}✓${red}] ${white}GitHub  ${red}: ${green}https://github.com/${yellowlite}Mr${whitelite}Ghost${greenlite}Official\n ${black}————————————————————————————————————————————————————>"
 echo -e "               ${bluewhitemix}First Use This⤵️${finished}"
